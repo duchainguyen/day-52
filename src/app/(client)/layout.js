@@ -7,7 +7,7 @@ import fb from "@/assets/images/fb.png";
 import github from "@/assets/images/github.png";
 import user from "@/assets/images/user.png";
 import Link from "next/link";
-import clsx from "clsx";
+// import clsx from "clsx";
 import DarkLight from "./DarkLight";
 // import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css";
 const ClientLayout = ({ children }) => {
